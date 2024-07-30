@@ -14,7 +14,7 @@ There are 3 different versions: **Vanilla**, **Caxton-Raster**, and **Caxton-MSD
 - **Caxton-MSDF** 版本需要[Caxton](https://modrinth.com/mod/caxton)模組，因為採用了向量圖來渲染，所以不管怎麼放大都不會失真。缺點是開啟Iris光影時，告示牌上的文字無法顯示(UI文字不影響)。
 - **Caxton-Raster** 版本是一個折衷的方案，雖然和原版一樣都是用點陣圖渲染，但Caxton提供了模糊效果和mipmap，可以消除礙眼的鋸齒。
 ![Comparison 2](https://cdn.modrinth.com/data/EYolFDbG/images/acaae3163fe5e64f838e26b5f3deb2d67693fa70.png)
-▲ **Caxton-Raster** and **Caxton-MSDF** don't have much differences in small texts.
+▲ There isn't much difference between **Caxton-Raster** and **Caxton-MSDF** in small texts.
 </br>▲ **Caxton-Raster** 和 **Caxton-MSDF** 在較小的文字上幾乎沒有差別。
 ![Comparison 3](https://cdn.modrinth.com/data/EYolFDbG/images/afa1b69a62e1d70a67398038c0d01f0da630f86c.png)
 ▲ **Caxton-MSDF** doesn't compatible with Iris.
