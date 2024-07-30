@@ -21,4 +21,4 @@ There are 3 different versions: **Vanilla**, **Caxton-Raster**, and **Caxton-MSD
 </br>▲ **Caxton-MSDF** 和Iris不相容。
 
 ## Download
-Visit the [modrinth page](https://modrinth.com/resourcepack/phantom-xiangs-transparent-hud/settings/description) or simply click the "Download ZIP" button.
+Visit the [modrinth page](https://modrinth.com/resourcepack/naikai-font) or simply click the "Download ZIP" button.
