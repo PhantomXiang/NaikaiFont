@@ -1,0 +1,10 @@
+{
+    "face_index": 0,
+    "invert": null,
+    "margin": 4,
+    "max_mipmap": 0,
+    "path": "caxton:NaikaiFont-Light.ttf",
+    "range": 4,
+    "shrinkage": 32.0,
+    "tech": "msdf"
+}

@@ -1,0 +1,14 @@
+{
+    "providers": [
+        {
+            "file": "minecraft:NaikaiFont-Light.ttf",
+            "oversample": 16,
+            "shift": [
+                0,
+                -0.4
+            ],
+            "size": 8,
+            "type": "ttf"
+        }
+    ]
+}

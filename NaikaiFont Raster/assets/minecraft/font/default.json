@@ -1,0 +1,61 @@
+{
+  "providers": [
+    {
+      "bold": {
+        "blur": true,
+        "file": "caxton:NaikaiFont-Bold.ttf",
+        "scale_factor": 1.1,
+        "shadow_offset": 0.5,
+        "shift": [
+          0,
+          -0.3
+        ]
+      },
+      "bold_italic": {
+        "blur": true,
+        "file": "caxton:NaikaiFont-Bold.ttf",
+        "scale_factor": 1.1,
+        "shadow_offset": 0.5,
+        "shift": [
+          0,
+          -0.3
+        ],
+        "the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1056964608
+      },
+      "italic": {
+        "blur": true,
+        "file": "caxton:NaikaiFont-Light.ttf",
+        "scale_factor": 1.1,
+        "shadow_offset": 0.5,
+        "shift": [
+          0,
+          -0.3
+        ],
+        "the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1056964608
+      },
+      "regular": {
+        "blur": true,
+        "file": "caxton:NaikaiFont-Light.ttf",
+        "scale_factor": 1.1,
+        "shadow_offset": 0.5,
+        "shift": [
+          0,
+          -0.3
+        ]
+      },
+      "type": "caxton"
+    },
+    {
+      "id": "minecraft:include/space",
+      "type": "reference"
+    },
+    {
+      "id": "minecraft:include/default",
+      "type": "reference"
+    },
+    {
+      "id": "minecraft:include/unifont",
+      "type": "reference"
+    }
+  ]
+}
