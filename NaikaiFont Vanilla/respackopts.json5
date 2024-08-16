@@ -1,0 +1,10 @@
+{
+    "capabilities": [
+        "FileFilter"
+    ],
+    "conf": {
+        "no_shadow": true
+    },
+    "id": "nf_v",
+    "version": 12
+}

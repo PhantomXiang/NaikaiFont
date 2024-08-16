@@ -1,0 +1,4 @@
+{
+    "condition": "nf_msdf.no_shadow",
+    "fallback": "assets/minecraft/font/default_shadow.json"
+}

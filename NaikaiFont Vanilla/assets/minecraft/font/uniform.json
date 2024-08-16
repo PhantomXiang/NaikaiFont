@@ -5,9 +5,9 @@
             "oversample": 16,
             "shift": [
                 0,
-                -0.4
+                0
             ],
-            "size": 8,
+            "size": 9,
             "type": "ttf"
         }
     ]

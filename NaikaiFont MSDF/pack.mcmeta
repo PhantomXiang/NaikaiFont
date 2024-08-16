@@ -1,6 +1,27 @@
 ﻿{
-  "pack": {
-    "pack_format": 34,
-    "description":"Naikai Font 1.0\nCaxton - MSDF"
-  }
+    "pack": {
+        "pack_format": 48,
+        "description": [
+            {
+                "text": "Naikai Font ",
+                "bold": true,
+                "color": "gold"
+            },
+            {
+                "text": "V1.1",
+                "bold": true,
+                "color": "green"
+            },
+            {
+                "text": "\nversion: ",
+                "bold": false,
+                "color": "gray"
+            },
+            {
+                "text": "Caxton-MSDF",
+                "bold": false,
+                "color": "aqua"
+            }
+        ]
+    }
 }
