@@ -3,7 +3,7 @@
     {
       "bold": {
         "blur": true,
-        "file": "caxton:NaikaiFont-Bold.ttf",
+        "file": "caxton:naikai_font_bold.ttf",
         "scale_factor": 1.1,
         "shadow_offset": 0,
         "shift": [
@@ -13,7 +13,7 @@
       },
       "bold_italic": {
         "blur": true,
-        "file": "caxton:NaikaiFont-Bold.ttf",
+        "file": "caxton:naikai_font_bold.ttf",
         "scale_factor": 1.1,
         "shadow_offset": 0,
         "shift": [
@@ -24,7 +24,7 @@
       },
       "italic": {
         "blur": true,
-        "file": "caxton:NaikaiFont-Light.ttf",
+        "file": "caxton:naikai_font_light.ttf",
         "scale_factor": 1.1,
         "shadow_offset": 0,
         "shift": [
@@ -35,7 +35,7 @@
       },
       "regular": {
         "blur": true,
-        "file": "caxton:NaikaiFont-Light.ttf",
+        "file": "caxton:naikai_font_light.ttf",
         "scale_factor": 1.1,
         "shadow_offset": 0,
         "shift": [

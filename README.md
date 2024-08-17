@@ -20,6 +20,12 @@ There are 3 different versions: **Vanilla**, **Caxton-Raster**, and **Caxton-MSD
 ▲ **Caxton-MSDF** doesn't compatible with Iris.\
 ▲ **Caxton-MSDF** 和Iris不相容。
 
+## Options
+**[Respackopts](https://modrinth.com/mod/respackopts) is required to modify these options.**\
+**需安裝[Respackopts](https://modrinth.com/mod/respackopts)以變更設定**
+- Text Shadow (default is off)
+- 字體陰影 (預設為關)
+
 ## Caxton Configurations
 Don't like how the Caxton fonts look or using a different GUI scale? Then you can try to edit the configuration files. I'll show you how.\
 不喜歡Caxton的顯示效果嗎？那你可以試試更改字體設定檔，說明如下。
